@@ -76,7 +76,7 @@
                     android:theme="@style/RaisedButtonDark"/>
 
                 <RelativeLayout
-                    android:layout_marginVertical="@dimen/marginLaout"
+                    android:layout_marginVertical="@dimen/marginLayout"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:gravity="center">
